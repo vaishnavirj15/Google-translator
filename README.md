@@ -20,7 +20,8 @@ translator-app/
 │
 ├── images/                         # Folder containing app icons and other images
 │   ├── Google_Translate_Icon.png
+│   ├── arrow.png
 │   ├── arrow1.png
 │
-├── main.py                         # Main Python file containing the Tkinter app code
+├── translator.py                         # Main Python file containing the Tkinter app code
 └── README.md                       # Project README file
